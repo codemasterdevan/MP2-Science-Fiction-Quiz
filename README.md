@@ -1,7 +1,7 @@
 # Science Fiction Quiz Game
 ##### Code Institute / Interactive Frontend Development
 
-You can check the website here [Science Fiction Quiz](https://devancadman.github.io/MP2-Science-Fiction-Quiz)
+You can check the website here [Science Fiction Quiz](https://codemasterdevan.github.io/MP2-Science-Fiction-Quiz)
 
 ![ScreenShot](./docs/documentation-images/Am-I-Responsive-Science-Fiction-Quiz-Game.png)
 
